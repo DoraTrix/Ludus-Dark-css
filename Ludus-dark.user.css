@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name           Forge Dark mode - Jun 2024
+@namespace      github.com/DoraTrix/Ludus-Dark-css
+@version        1.0.0
+@description    Force dark mode on Ludus.com pages
+@author         Pandora Beatrix
+==/UserStyle== */
+@-moz-document domain('ludus.com') {
+    html {
+        filter: invert(100%) hue-rotate(180deg);
+        background: black
+    }
+    img {
+        filter: invert(100%) hue-rotate(180deg) !important;
+    }
+    video {
+        filter: invert(100%) hue-rotate(180deg) !important;
+    }
+}
