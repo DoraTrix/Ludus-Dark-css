@@ -1,5 +1,7 @@
 user.css to force Dark Mode on Ludus.com pages until they implement a native solution!
 
+Many thanks to the folks in this SO thread: https://stackoverflow.com/questions/40723277/fullscreen-inverted-luminance-filter-for-dark-themed-browsing-but-keeping-hues-i
+
 * How do I use this, Dora?
   - The Stylus extension can manage user.css files/settings in a couple non-Apple environments:
     - Android: Firefox + https://add0n.com/stylus.html
