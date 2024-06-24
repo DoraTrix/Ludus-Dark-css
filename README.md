@@ -1,6 +1,6 @@
 Update 2024-06-24: Ludus has added a Labs option to enable a Dark Mode toggle button on the top menu!  You can still use this personally if your org's Ludus admin hasn't/won't turn it on.
 
-user.css to force Dark Mode on Ludus.com pages until they implement a native solution!
+user.css to force Dark Mode on Ludus.com pages ~~until they implement a native solution!~~
 
 Many thanks to the folks in this SO thread: https://stackoverflow.com/questions/40723277/fullscreen-inverted-luminance-filter-for-dark-themed-browsing-but-keeping-hues-i
 
